@@ -5,7 +5,7 @@ public class Calculator
     {
        return x + y;
     }
-    public int sub(int x, int y)
+    public int subtraction(int x, int y)
     {
        return x - y;
     }
