@@ -1,11 +1,11 @@
 public class Calculator
 {  
 
-    public int addition(int x, int y)
+    public int add(int x, int y)
     {
        return x + y;
     }
-    public int subtraction(int x, int y)
+    public int sub(int x, int y)
     {
        return x - y;
     }
