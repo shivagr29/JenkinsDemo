@@ -7,7 +7,6 @@ public class Calculator
     {
       int result = x + y;
         return result;
-        System.out.println(result);
     }
     public int subtraction(int x, int y)
     {
