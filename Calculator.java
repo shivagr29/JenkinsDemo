@@ -1,7 +1,7 @@
 public class Calculator
 {  
 
-    public int add(int x, int y)
+    public int addition(int x, int y)
     {
        return x + y;
     }
